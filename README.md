@@ -1,4 +1,4 @@
-<img  align="right" src="https://i.picasion.com/pic92/ada95b5e03862efde6fba383070e5d18.gif" width="300" height="300" border="0"/>
+<img  align="right" src="https://i.picasion.com/pic92/ada95b5e03862efde6fba383070e5d18.gif" width="380" height="380" border="0"/>
 <h1>Fala galera, Claudiney na área 😝⚽🐺!!</h1>
 
 - ⏳   Futuro Técnico em Informática cursando o 7º período
@@ -10,6 +10,10 @@
 - ⚽  Apaixonado em jogar futsal
 
 - ⭐  Buscando sempre ser melhor que ontem
+
+## 📱 &nbsp;Contatos
+<a href="https://instagram.com/claudiney_dutra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:claudineygui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
 <br>
 
