@@ -24,6 +24,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=ClaudineyDutra&show_icons=true&theme=github_dark" alt="ClaudineyDutra's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudineyDutra&layout=compact&theme=github_dark" alt="ClaudineyDutra's most languages"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api?username=ClaudineyDutra&show_icons=true&theme=github_dark" alt="ClaudineyDutra's stats"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudineyDutra&layout=compact&theme=github_dark" alt="ClaudineyDutra's most languages"/>
 </p>
