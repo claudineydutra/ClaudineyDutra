@@ -13,8 +13,9 @@
 
 ## 📱 &nbsp;Contatos
 <a href="https://instagram.com/claudiney_dutra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:claudineygui@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://br.linkedin.com/in/claudiney-dutra-5a284a236" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+![claudineygui@gmail.com](https://img.shields.io/badge/claudineygui@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
+
 
 <br>
 
@@ -30,6 +31,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="420em" src="https://github-readme-stats.vercel.app/api?username=ClaudineyDutra&show_icons=true&theme=github_dark" alt="ClaudineyDutra's stats"/>
-<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudineyDutra&layout=compact&theme=github_dark" alt="ClaudineyDutra's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=ClaudineyDutra&show_icons=true&theme=github_dark" alt="ClaudineyDutra's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudineyDutra&layout=compact&theme=github_dark" alt="ClaudineyDutra's most languages"/>
 </p>
