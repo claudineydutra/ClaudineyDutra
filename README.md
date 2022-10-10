@@ -1,17 +1,14 @@
-<img  align="right" src="https://i.picasion.com/pic92/ada95b5e03862efde6fba383070e5d18.gif" width="380" height="380" border="0"/>
-<h1>Fala galera, Claudiney na área 😝⚽🐺!!</h1>
 
-- ⏳   Futuro Técnico em Informática cursando o 7º período
+<h1>Hello, Claudiney is here 😝⚽🐺!!</h1>
 
-- 📚   Estudando no Instituto Federal de Educação, Ciência e Tecnologia do Ceará
+- ⏳   Future IT Technician studying the 8th period
 
-- 🔥   Dedicado, Focado e muito Determinado
+- 📚  Studying at the Federal Institute of Education, Science and Technology of Ceará
 
-- ⚽  Apaixonado em jogar futsal
+- 🔥   Dedicated, Focused and Very Determined
 
-- ⭐  Buscando sempre ser melhor que ontem
 
-## 📱 &nbsp;Contatos
+## 📱 &nbsp;Contact
 <a href="https://instagram.com/claudiney_dutra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://br.linkedin.com/in/claudiney-dutra-5a284a236" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ![claudineygui@gmail.com](https://img.shields.io/badge/claudineygui@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
@@ -19,12 +16,13 @@
 
 <br>
 
-## 🛠 &nbsp;Habilidades Dev
+## 🛠 &nbsp;Dev Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
+ ![Snake animation](https://github.com/ClaudineyDutra/ClaudineyDutra/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
