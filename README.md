@@ -34,8 +34,8 @@
 
 
 ## 📱 &nbsp;Contact
-<a href="https://instagram.com/claudiney_dutra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://br.linkedin.com/in/claudiney-dutra-5a284a236" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a target="_blank" href="https://instagram.com/claudiney_dutra"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a target="_blank" href="https://br.linkedin.com/in/claudiney-dutra-5a284a236"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 ![claudineygui@gmail.com](https://img.shields.io/badge/claudineygui@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
 
 
